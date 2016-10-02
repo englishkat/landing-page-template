@@ -1,2 +1,1 @@
-# landing-page-template
-Landing Page Template - GA Class
+Credit: [this](https://blackrockdigital.github.io/startbootstrap-landing-page/)
